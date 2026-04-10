@@ -114,9 +114,9 @@ Drift Correction      : 1700000000.9
 
 | Name | Role |
 |------|------|
-| [Mahathi S] | PES2UG24AM084 |
-| [Nethra Manoj] | PES2UG24AM101 |
-| [P Samreen] | PES2UG24AM108 |
+| Mahathi S | PES2UG24AM084 |
+| Nethra Manoj | PES2UG24AM101 |
+| P Samreen | PES2UG24AM108 |
 
 ---
 
